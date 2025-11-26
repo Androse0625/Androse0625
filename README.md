@@ -5,15 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/@rews0625" target="blank"><img src="https://img.shields.io/twitter/follow/@rews0625?logo=twitter&style=for-the-badge" alt="@rews0625" /></a> </p>
 
-- 🔭 I’m currently working on **prodigy infotech intern**
-
-- 🌱 I’m currently learning **cissp,soc,network+,proxy,ssl,tls**
+- 🔭 Msc Cyber security graduate
+- 🌱 I’m currently learning *
 
 - 👯 I’m looking to collaborate on **shadowfox intern**
 
 - 💬 Ask me about **cyber security student passionate about the digital infrastructure and data.**
 
-- 📫 How to reach me **androseofficial1@gmail.com**
+- 📫 How to reach me androsesi20032gmail.com
 
 - ⚡ Fun fact **be you, the world will all adjust.**
 
